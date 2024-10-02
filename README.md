@@ -1,4 +1,4 @@
-# JavaScript_Projects
+# JavaScript Projects
 
 ## 1. Pyramid Generator
 
